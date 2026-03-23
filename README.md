@@ -46,6 +46,7 @@ The application also includes input validation and prevents repeated guesses to 
 hangman/
 │── hangman.py
 │── README.md
+|──hangman_output.png
 
 ```
 
